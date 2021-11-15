@@ -1,2 +1,2 @@
 # odin-recipes
-Recipes with html 
+Recipes with only html using img and list elements
